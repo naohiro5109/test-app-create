@@ -2,6 +2,8 @@
 
 個人利用・学習目的のシンプルな to-do リスト管理アプリ。
 
+公開URL: https://naohiro5109.github.io/test-app-create/
+
 開発計画は [docs/todo-app-plan.md](docs/todo-app-plan.md)、仕様は [docs/spec.md](docs/spec.md) を参照。
 
 ## 技術スタック
@@ -31,4 +33,4 @@ npm run dev
 
 ## 開発状況
 
-フェーズ3（品質担保）まで完了。次はフェーズ4（デプロイ）。詳細は [docs/todo-app-plan.md](docs/todo-app-plan.md) の開発ステップを参照。
+フェーズ4（デプロイ）まで完了。MVPは完成し、公開済み。次はフェーズ5（機能拡張）。詳細は [docs/todo-app-plan.md](docs/todo-app-plan.md) の開発ステップを参照。

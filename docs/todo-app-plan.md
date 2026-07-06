@@ -42,8 +42,8 @@
 - [x] 3-3. README にセットアップ・実行手順を記載
 
 ### フェーズ4：デプロイ
-- [ ] 4-1. GitHub Pages または Vercel へのデプロイ設定
-- [ ] 4-2. 本番環境での動作確認
+- [x] 4-1. GitHub Pages へのデプロイ設定（GitHub Actionsで自動ビルド・公開）
+- [x] 4-2. 本番環境での動作確認（https://naohiro5109.github.io/test-app-create/ ）
 
 ### フェーズ5：機能拡張（MVP後、優先度順に着手）
 - [ ] 5-1. タスク編集機能
